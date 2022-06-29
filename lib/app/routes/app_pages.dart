@@ -1,7 +1,6 @@
 import 'package:get/get.dart';
-
-import '../modules/home/bindings/home_binding.dart';
-import '../modules/home/views/home_view.dart';
+import 'package:miuzik/app/modules/home/bindings/home_binding.dart';
+import 'package:miuzik/app/modules/home/views/home_view.dart';
 
 part 'app_routes.dart';
 
